@@ -1,7 +1,4 @@
-# linux-web-server-infrastructure
-Team project documentation for Linux Web Server
-# Linux Web Server Infrastructure
-
+# linux-web-server-infrastructur
 ## Project Type
 Team Project – Server Administration Laboratory
 
